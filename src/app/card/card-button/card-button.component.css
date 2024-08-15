@@ -1,0 +1,11 @@
+.botao{
+  background-color: brown;
+  border-radius: 30%;
+  height: 50px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: aliceblue;
+  cursor: pointer;
+}
