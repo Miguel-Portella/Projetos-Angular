@@ -1,8 +1,7 @@
 .quadrado{
-  height: 150px;
-  width: 300px;
+  height: 30%;
+  width: 100%;
   background-color: aqua;
-  border-radius: 30px;
 }
 .quadrado2{
   display: flex;

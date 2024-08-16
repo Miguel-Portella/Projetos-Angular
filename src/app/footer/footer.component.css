@@ -1,0 +1,8 @@
+*{
+display: flex;
+background-color: black;
+color: white;
+height: 85px;
+align-items: center;
+justify-content: center;
+}
